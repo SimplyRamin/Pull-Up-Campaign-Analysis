@@ -83,19 +83,19 @@ This project focuses on the comprehensive analysis of the "Pull Up" Advertising 
 This research project was powered by a robust set of tools, libraries, and frameworks that facilitated data processing, analysis, and visualization:
 
 - ![Static Badge](https://img.shields.io/badge/Python-%23fafafa?style=flat&logo=python&logoColor=%231572B6)
-: The primary programming language for data manipulation, analysis, and visualization.
+ The primary programming language for data manipulation, analysis, and visualization.
 
-- ![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks-%23fafafa?style=flat&logo=jupyter&logoColor=%231572B6): Used for interactive data exploration, analysis, and documentation, providing an intuitive environment for code execution and visualization.
+- ![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks-%23fafafa?style=flat&logo=jupyter&logoColor=%231572B6) Used for interactive data exploration, analysis, and documentation, providing an intuitive environment for code execution and visualization.
 
-- ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23fafafa?style=flat&logo=scikit-learn&logoColor=%231572B6): scikit-learn is a versatile machine learning library in Python that offers simple and efficient tools for data analysis and modeling, including classification, regression, clustering, and more.
+- ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23fafafa?style=flat&logo=scikit-learn&logoColor=%231572B6) scikit-learn is a versatile machine learning library in Python that offers simple and efficient tools for data analysis and modeling, including classification, regression, clustering, and more.
 
-- ![Static Badge](https://img.shields.io/badge/NumPy-%23fafafa?style=flat&logo=numpy&logoColor=%231572B6): NumPy is a fundamental package for scientific computing with Python, providing support for arrays and matrices, as well as a wide range of mathematical functions.
+- ![Static Badge](https://img.shields.io/badge/NumPy-%23fafafa?style=flat&logo=numpy&logoColor=%231572B6) NumPy is a fundamental package for scientific computing with Python, providing support for arrays and matrices, as well as a wide range of mathematical functions.
 
-- ![Static Badge](https://img.shields.io/badge/Pandas-%23fafafa?style=flat&logo=pandas&logoColor=%231572B6): A versatile data manipulation library for cleaning, processing, and analyzing structured data.
+- ![Static Badge](https://img.shields.io/badge/Pandas-%23fafafa?style=flat&logo=pandas&logoColor=%231572B6) A versatile data manipulation library for cleaning, processing, and analyzing structured data.
 
-- ![Static Badge](https://img.shields.io/badge/Seaborn-%23fafafa?style=flat&logo=seaborn&logoColor=%231572B6)Seaborn: A powerful statistical data visualization library that enhances the presentation of insights through beautiful and informative plots.
+- ![Static Badge](https://img.shields.io/badge/Seaborn-%23fafafa?style=flat&logo=seaborn&logoColor=%231572B6) A powerful statistical data visualization library that enhances the presentation of insights through beautiful and informative plots.
 
-- ![Static Badge](https://img.shields.io/badge/Matplotlib-%23fafafa?style=flat&logo=matplotlib&logoColor=%231572B6): A widely-used data visualization library that offers extensive customization and control over plot aesthetics.
+- ![Static Badge](https://img.shields.io/badge/Matplotlib-%23fafafa?style=flat&logo=matplotlib&logoColor=%231572B6) A widely-used data visualization library that offers extensive customization and control over plot aesthetics.
 
 Feel free to explore the codebase to see how these elements come together to create this portfolio website.
 
