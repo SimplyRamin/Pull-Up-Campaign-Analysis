@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/Ramin%20F.-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raminferdos/)
 [![Static Badge](https://img.shields.io/badge/ferdos.ramin%40gmail.com-%23fefefe?style=for-the-badge&logo=gmail)
 ](mailto:ferdos.ramin@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Visit%20My%20Personal%20Portfolio-%23092540?style=for-the-badge)](https://Pull-Up-Campaign-Analysis/)
+[![Static Badge](https://img.shields.io/badge/Visit%20My%20Personal%20Portfolio-%23092540?style=for-the-badge)](https://simplyramin.github.io/)
 
 <!-- PROJECT LOGO -->
 <br />
