@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/SimplyRamin/Pull-Up-Campaign-Analysis)
-![GitHub top language](https://img.shields.io/github/languages/top/SimplyRamin/Pull-Up-Campaign-Analysis?logo=html5)
+![GitHub top language](https://img.shields.io/github/languages/top/SimplyRamin/Pull-Up-Campaign-Analysis?logo=jupyter)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SimplyRamin/Pull-Up-Campaign-Analysis)
 ![GitHub](https://img.shields.io/github/license/SimplyRamin/Pull-Up-Campaign-Analysis)
 ![Maintenance](https://img.shields.io/maintenance/no/2023)
