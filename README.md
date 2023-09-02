@@ -13,10 +13,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" id=readme-top>
-  <h3 align="center">Iranian University Research Impact Analysis</h3>
+  <h3 align="center">"Pull Up" Advertising Campaign Analysis</h3>
 
   <p align="center">
-    The Data, Code and Materials for the Iranian University Research Impact Analysis
+    Data-Driven Analysis of "Pull Up" Advertising Campaign
     <br />
     <a href="https://github.com/SimplyRamin/Pull-Up-Campaign-Analysis"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,49 +59,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product-Screenshot](images/output.png)
+![Product-Screenshot](images/output.jpg)
 
 ### Overview
 
-This repository houses the code and data for a research paper conducted by Ramin Ferdos and Ali Hossein Noorafrooz. In this study, we leverage data from Altmetric to analyze the impact and visibility of research output from Iranian universities on the global stage. Our analysis is based on a variety of metrics, including mentions in news articles, patent creation, policy influence, and more. We have followed the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to guide our research.
+This project focuses on the comprehensive analysis of the "Pull Up" Advertising Campaign, a 360-degree marketing initiative carried out for a well-known brand of adult diapers in Iran. The campaign was executed by SISARV Marcom Agency. Our primary objective was to assess the campaign's effectiveness using a data-driven approach.
+### Project Highlights
+- ***Data-Driven Approach***: We approached this analysis using a data-driven methodology, leveraging statistical techniques and machine learning algorithms to draw meaningful insights.
 
-### Research Objectives
-Our primary objectives in this research include:
+- ***Data Preprocessing***: We began by handling missing data and employing imputation techniques to ensure the data's integrity.
 
-- ***Understanding Impact***: Assessing the global impact of research produced by Iranian universities.
-- ***Multidimensional Analysis***: Analyzing research impact using diverse metrics, such as media mentions, patent creation, and policy influence.
-- ***Data-Driven Insights***: Generating insights from the data to inform academic and policy decisions.
+- ***Effectiveness Assessment***: We established a threshold and calculated the effectiveness of each paid advertising medium based on views. This allowed us to determine whether each medium provided value for our investment, helping us make informed decisions.
 
-### Methodology
+- ***Introducing 'Benefit' Category***: To encapsulate the concept of media effectiveness, we introduced a categorical feature called 'benefit.' This feature helps classify each medium as either delivering substantial benefits, cost overruns, or cost savings.
 
-Our research is structured around the CRISP-DM framework, which involves the following key phases:
+- ***Descriptive and Exploratory Analysis***: We conducted comprehensive descriptive and exploratory data analyses to gain insights into the dataset. This included visualizations, statistical summaries, and correlation analysis of the key features.
 
-- ***Business Understanding***: Defining the research objectives and questions.
+- ***Predictive Modeling***: We developed predictive models to forecast the benefit status of a new advertising medium. This involved extensive hyperparameter tuning and experimentation with various algorithms.
 
-- ***Data Understanding***: Gathering and exploring the Altmetric data to understand its structure and potential insights.
-
-- ***Data Preparation***: Cleaning and preprocessing the data to make it suitable for analysis.
-
-- ***Data Analysis***: Conducting a comprehensive exploratory data analysis (EDA) to uncover patterns, trends, and outliers in the data.
-
-- ***Modeling***: While traditional modeling is not a focus of this research, our analysis involves modeling in terms of data visualization and pattern recognition.
-
-- ***Evaluation***: Assessing the impact of research from the top 15 Iranian universities based on various metrics.
-
-- ***Deployment***: Sharing our findings and insights in a clear and accessible manner.
-
-### Exploratory Data Analysis
-Our EDA process involves a detailed exploration of the data, generating numerous insights. You can find the EDA notebooks in the notebooks. These notebooks provide a deep dive into the data, visualizations, and patterns we've discovered.
-
-### Key Insights
-Throughout our analysis, we have generated several key insights regarding the impact of Iranian university research. These insights are both quantitative and qualitative, and they are visualized to aid in understanding. Please refer to the notebooks and visualizations for a comprehensive view of our findings.
-
-### Participating Universities
-We have analyzed research output from the top 15 universities in Iran, as determined by the Ministry of Science and Research ratings. The list of universities can be found in the `Data` folder.
-
-### Data Sources
-Our primary data source is Altmetric, which provides valuable information about research impact across multiple dimensions.
-
+- ***Unsupervised Learning***: In addition to supervised learning, we explored an unsupervised learning approach using clustering techniques to uncover patterns within the data.
 ### Built With
 
 This research project was powered by a robust set of tools, libraries, and frameworks that facilitated data processing, analysis, and visualization:
@@ -110,6 +86,10 @@ This research project was powered by a robust set of tools, libraries, and frame
 : The primary programming language for data manipulation, analysis, and visualization.
 
 - ![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks-%23fafafa?style=flat&logo=jupyter&logoColor=%231572B6): Used for interactive data exploration, analysis, and documentation, providing an intuitive environment for code execution and visualization.
+
+- ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23fafafa?style=flat&logo=scikit-learn&logoColor=%231572B6): scikit-learn is a versatile machine learning library in Python that offers simple and efficient tools for data analysis and modeling, including classification, regression, clustering, and more.
+
+- ![Static Badge](https://img.shields.io/badge/NumPy-%23fafafa?style=flat&logo=numpy&logoColor=%231572B6): NumPy is a fundamental package for scientific computing with Python, providing support for arrays and matrices, as well as a wide range of mathematical functions.
 
 - ![Static Badge](https://img.shields.io/badge/Pandas-%23fafafa?style=flat&logo=pandas&logoColor=%231572B6): A versatile data manipulation library for cleaning, processing, and analyzing structured data.
 
@@ -170,6 +150,10 @@ Project Link: [https://github.com/SimplyRamin/Pull-Up-Campaign-Analysis](https:/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to express our gratitude to the data science community for its constant inspiration and support. This project is a testament to the power of data-driven insights and the endless possibilities they offer in understanding and optimizing social media engagement.
+I would like to express my gratitude to the data science community for its constant inspiration and support. This project is a testament to the power of data-driven insights and the endless possibilities they offer in understanding and optimizing social media engagement.
+
+I would like to express my sincere gratitude to [SISARV Marcom Agency](https://www.sisarv.com/) for their generous support and collaboration in providing the essential data for this project. Their valuable contribution was instrumental in enabling this in-depth analysis of the "Pull Up" Advertising Campaign. Their commitment to data-driven decision-making played a crucial role in the successful execution of this project.
+I extend my appreciation to the entire team at SISARV Marcom Agency who were involved in the collection and sharing of the campaign data. This project would not have been possible without their cooperation and the trust they placed in my analysis efforts.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
