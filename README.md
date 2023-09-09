@@ -97,8 +97,6 @@ This research project was powered by a robust set of tools, libraries, and frame
 
 - ![Static Badge](https://img.shields.io/badge/Matplotlib-%23fafafa?style=flat&logo=matplotlib&logoColor=%231572B6) A widely-used data visualization library that offers extensive customization and control over plot aesthetics.
 
-Feel free to explore the codebase to see how these elements come together to create this portfolio website.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- HOW TO USE THIS REPOSITORY -->
